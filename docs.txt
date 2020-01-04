@@ -1,0 +1,1 @@
+// "exec": "set NODE_ENV=development & ts-node src/variable_declaration.ts"
